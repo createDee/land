@@ -1,0 +1,60 @@
+.container{background:radial-gradient(circle,#abb2b9,#17202A)}
+.d1{height:200px;width:200px;position:absolute;left:10px;top:1px;}
+.d2{height:200px;width:200px;position:absolute;left:550px;top:-3px;}
+.d3{height:200px;width:300px;position:absolute;top:170px;left:400px}
+.w3-animate-zoom {-webkit-animation:animatezoom 2.2s;animation:animatezoom 2.2s}
+@-webkit-keyframes animatezoom{from{-webkit-transform:scale(0)} to{-webkit-transform:scale(1)}}
+@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
+.text{position:absolute;top:120px;left:400px;}
+ .tool .text{display:none;}
+.tool:hover .text{display:inline-block}
+
+.d4{height:200px;width:300px;position:absolute;top:400px;right:80px}
+.text1{position:absolute;top:610px;right:90px;}
+ .tool1 .text1{display:none;}
+.tool1:hover .text1{display:inline-block}
+
+.w4-animate-zoom {-webkit-animation:animatezoom 1.6s;animation:animatezoom 1.6s}
+@-webkit-keyframes animatezoom{from{-webkit-transform:scale(0)} to{-webkit-transform:scale(1)}}
+@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
+.d5{height:240px;width:300px;position:absolute;top:130px;right:250px;}
+.w5-animate-zoom {-webkit-animation:animatezoom 2.6s;animation:animatezoom 3.6s}
+@-webkit-keyframes animatezoom{from{-webkit-transform:scale(0)} to{-webkit-transform:scale(1)}}
+@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
+.text2{position:absolute;top:300px;right:13px;}
+ .tool2 .text2{display:none;}
+.tool2:hover .text2{display:inline-block}
+
+.d6{height:300px;width:200px;position:absolute;top:600px;left:300px}
+.w6-animate-zoom {-webkit-animation:animatezoom 1.6s;animation:animatezoom 1.6s}
+@-webkit-keyframes animatezoom{from{-webkit-transform:scale(0)} to{-webkit-transform:scale(1)}}
+@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
+.text4{position:absolute;top:830px;left:140px;}
+ .tool4 .text4{display:none;}
+.tool4:hover .text4{display:inline-block}
+
+.d7{height:300px;width:200px;position:absolute;top:650px;right:550px}
+.w7-animate-zoom {-webkit-animation:animatezoom 1.6s;animation:animatezoom 1.6s}
+@-webkit-keyframes animatezoom{from{-webkit-transform:scale(0)} to{-webkit-transform:scale(1)}}
+@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
+.text5{position:absolute;top:580px;right:550px;}
+ .tool5 .text5{display:none;}
+.tool5:hover .text5{display:inline-block}
+
+.d8{height:300px;width:200px;position:absolute;top:570px;right:270px}
+
+.w8-animate-zoom {-webkit-animation:animatezoom 1.6s;animation:animatezoom 1.6s}
+@-webkit-keyframes animatezoom{from{-webkit-transform:scale(0)} to{-webkit-transform:scale(1)}}
+@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
+.text6{position:absolute;top:840px;right:60px;}
+ .tool6 .text6{display:none;}
+.tool6:hover .text6{display:inline-block}
+
+.d10{height:200px;width:300px;top:380px;left:80px;position:absolute;}
+.w10-animate-zoom {-webkit-animation:animatezoom 3.6s;animation:animatezoom 3.6s}
+@-webkit-keyframes animatezoom{from{-webkit-transform:scale(0)} to{-webkit-transform:scale(1)}}
+@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
+.text3{position:absolute;top:350px;left:100px;}
+ .tool3 .text3{display:none;}
+.tool3:hover .text3{display:inline-block}
+#h1{font-size:100pt;color:black;font-family:algerian;position:absolute;left:500px;top:320px}
